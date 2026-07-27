@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman&theme=light" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" height="60" alt="sonarqube logo"  />
+  <img src="https://mms.businesswire.com/media/20220426005213/en/1431596/4/SonarSource_logo.jpg" height="60" alt="sonarqube logo"  />
 </div>
 
 ###
