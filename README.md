@@ -7,9 +7,6 @@
 <h6 align="center">Backend</h6>
 
 ###
-<p align="center">
-
-![](https://img.shields.io/badge/ 
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
@@ -23,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="amazonwebservices logo"  />
 </div>
 
-</p>
 ###
 
 <h6 align="center">Frontend</h6>
