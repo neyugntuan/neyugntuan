@@ -36,6 +36,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neyugntuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+###
+
 <div data-importer="stats" align="center">
   <img
     src="https://streak-stats.demolab.com/?user=neyugntuan&theme=dracula&hide_border=false"
