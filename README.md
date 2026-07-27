@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:000000&text=Nguyen%20Thanh%20Tuan&fontColor=ffffff&fontSize=45"/>
+</p>
+
+###
+
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
