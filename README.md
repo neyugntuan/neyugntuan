@@ -4,13 +4,13 @@
 
 ###
 
-<h6 align="center">Backend</h6>
-
-###
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neyugntuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
+
+###
+
+<h6 align="center">Backend</h6>
 
 ###
 
