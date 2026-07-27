@@ -1,13 +1,6 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1200&section=header&text=&fontSize=0"
-    width="100%"
-  />
-</p>
+<h1 align="center">neyugntuan</h1>
 
-###
-
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h4 align="center">Backend Developer</h4>
 
 ###
 
