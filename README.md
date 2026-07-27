@@ -5,7 +5,7 @@
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
