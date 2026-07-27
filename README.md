@@ -15,11 +15,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
