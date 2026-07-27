@@ -8,6 +8,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neyugntuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
   <img width="12" />
@@ -68,12 +74,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neyugntuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ###
