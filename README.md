@@ -12,6 +12,10 @@
   <img src="https://count.getloli.com/@neyugntuan?theme=moebooru">
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/@neyugntuan?theme=gelbooru">
+</p>
+
 ###
 
 <h6 align="center">Backend</h6>
