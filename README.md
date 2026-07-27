@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman&theme=light" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src=https://assets-eu-01.kc-usercontent.com/ef593040-b591-0198-9506-ed88b30bc023/8e69d91e-9d71-453d-a4c7-d25797ae7e1a/sonar-open-graph%402x.png" height="60" alt="sonarqube logo"  />
+  <img src="https://assets-eu-01.kc-usercontent.com/ef593040-b591-0198-9506-ed88b30bc023/8e69d91e-9d71-453d-a4c7-d25797ae7e1a/sonar-open-graph%402x.png" height="60" alt="sonarqube logo"  />
 </div>
 
 ###
