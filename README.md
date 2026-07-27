@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://count.getloli.com/@neyugntuan?theme=rule34">
+  <img src="https://count.getloli.com/@neyugntuan?theme=asoul">
 </p>
 
 <p align="center">
