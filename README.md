@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=neyugntuan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
+<p align="center">
+  <img src="https://count.getloli.com/@neyugntuan?theme=moebooru">
+</p>
+
 ###
 
 <h6 align="center">Backend</h6>
