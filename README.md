@@ -2,6 +2,10 @@
 
 ###
 
+<h6 align="center">Backend</h6>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=java&theme=light" height="60" alt="java logo"  />
   <img width="12" />
@@ -16,6 +20,10 @@
 
 ###
 
+<h6 align="center">Frontend</h6>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=html&theme=light" height="60" alt="html logo"  />
   <img width="12" />
@@ -23,6 +31,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js&theme=light" height="60" alt="js logo"  />
 </div>
+
+###
+
+<h6 align="center">Tools</h6>
 
 ###
 
