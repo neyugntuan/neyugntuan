@@ -37,13 +37,16 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=neyugntuan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-     height="150"
-     alt="GitHub streak stats" />
+  <img
+    src="https://streak-stats.demolab.com/?user=neyugntuan&theme=dracula&hide_border=false"
+    height="150"
+    alt="GitHub Streak"
+  />
+
   <img
     src="https://raw.githubusercontent.com/neyugntuan/neyugntuan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
     height="150"
-    alt="GitHub trophy graph"
+    alt="GitHub Trophy"
   />
 </div>
 
