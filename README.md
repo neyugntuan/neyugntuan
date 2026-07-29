@@ -1,5 +1,9 @@
 <h1 align="center">neyugntuan</h1>
 
+<p align="center">
+  <img src="header.gif" width="100%" />
+</p>
+
 <h4 align="center">Backend Developer</h4>
 
 ###
