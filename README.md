@@ -6,12 +6,13 @@
 
 ###
 
-<p align ="center"> Visitor Counter </p>
+<p align ="center"> You are the </p>
 
 <div align="center">
   <img src="https://count.getloli.com/@neyugntuan?theme=rule34">th
 </div>
 
+<p align ="center"> person to visit my profile </p>
 
 ###
 
