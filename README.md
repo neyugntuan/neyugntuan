@@ -1,10 +1,8 @@
-<h1 align="center">neyugntuan</h1>
+<h1 align="center"> C'est neyugntuan, Backend Developer</h1>
 
 <p align="center">
   <img src="header.gif" width="100%" />
 </p>
-
-<h4 align="center">Backend Developer</h4>
 
 ###
 
