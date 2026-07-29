@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00E5FF&height=250&section=header&text=Nguyen%20Thanh%20Tuan&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A5ACD,100:00E5FF&height=260&section=header&text=Nguyen%20Thanh%20Tuan&desc=Java%20Backend%20Developer&descAlignY=60&fontSize=48&fontColor=ffffff&descSize=22&descColor=dddddd&animation=fadeIn"/>
 </p>
 
 <h1 align="center"> C'est neyugntuan, a Backend Developer</h1>
